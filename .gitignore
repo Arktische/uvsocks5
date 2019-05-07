@@ -1,0 +1,8 @@
+.vscode/
+build/
+.idea/
+cmake-build-*/
+*.exe
+*.out
+*.user
+test.c
